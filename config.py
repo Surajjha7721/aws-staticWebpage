@@ -1,0 +1,6 @@
+customhost = "staticwebpage.cpkosckyumi4.ap-south-1.rds.amazonaws.com"
+customuser = "suraj"
+custompass = "surajjha"
+customdb = "staticwebpage"
+custombucket = "staticwebpage9"
+customregion = "eu-north-1"
